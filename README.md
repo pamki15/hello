@@ -1,3 +1,3 @@
 # hello
 my first repository on github!
-I love :coffee:,:tea:,and:milk:.
+I love :coffee:,:tea:,and:milk:
